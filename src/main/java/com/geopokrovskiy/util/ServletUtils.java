@@ -1,4 +1,4 @@
-package com.geopokrovskiy.utils;
+package com.geopokrovskiy.util;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
