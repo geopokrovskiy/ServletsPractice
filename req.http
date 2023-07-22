@@ -1,0 +1,9 @@
+POST localhost:8080/ServletsPractice/UserServlet
+content-type: application/json
+
+{
+  "name": "Georgy"
+}
+
+###
+GET localhost:8080/ServletsPractice/v1/users/3
